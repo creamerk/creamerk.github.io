@@ -12,11 +12,11 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Kaitlin Creamer"
 title_separator          : "-"
 name                     : &name "Kaitlin Creamer"
-description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal website of Kaitlin Creamer, Ph.D. - Environmental Microbiology & Genomic Data."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://creamerk.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "creamerk/creamerk.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Kaitlin Creamer, Ph.D."
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Postdoctoral Researcher @ UC Berkeley | Microbial “who & what” via big genomic data | Environmental microbiology in a changing world"
+  bio              : "Postdoctoral Researcher @ UC Berkeley researching the microbial “who & what” via big genomic data: environmental microbiology in a changing world"
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   uri              : # URL
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=wW9tnAQAAAAJ&hl=en"
+  googlescholar    : "wW9tnAQAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0666-2107"
+  orcid            : "0000-0002-0666-2107"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -138,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  # &twitter
 facebook:
   username               :
   app_id                 :
