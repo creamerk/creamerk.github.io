@@ -20,8 +20,8 @@ Previously, I completed my Ph.D. at the **Scripps Institution of Oceanography, U
   <h4>Research Interests</h4>
   <ul style="margin-top: -10px; line-height: 1.3;">
     <li><b>Environmental Genomics:</b> Genome-resolved metagenomics & big data pipelines with a microbial ecology lens.</li>
-    <li><b>Microbial Ecology:</b> Understanding community assembly and evolution in [soil & marine ecosystems].</li>
-    <li><b>Biotechnology:</b> Translating microbial discoveries into tangible solutions, like the [discovery of novel microbial compounds and biosynthetic pathways].</li>
+    <li><b>Microbial Ecology:</b> Understanding community assembly and evolution in soil & marine ecosystems.</li>
+    <li><b>Biotechnology:</b> Translating microbial discoveries into tangible solutions, like the discovery of novel microbial compounds and biosynthetic pathways.</li>
   </ul>
 </div>
 
