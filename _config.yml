@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Kaitlin Creamer, Ph.D."
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Postdoctoral Researcher @ UC Berkeley researching the microbial “who & what” via big genomic data: environmental microbiology in a changing world"
+  bio              : "Postdoctoral Researcher @ UC Berkeley"
   location         : "Berkeley, CA"
-  employer         : "UC Berkeley"
+  employer         : # URL
   uri              : # URL
-  email            : "kcreamer at berkeley dot edu" 
+  email            : # email in ""
 
   # Academic websites
   academia         : # URL
