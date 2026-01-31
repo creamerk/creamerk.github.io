@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank" rel="noopener noreferrer">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -22,7 +22,7 @@ author_profile: true
     <strong>{{ pub_count }}.</strong> 
     {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}
     {% if post.paperurl %}
-       <a href="{{ post.paperurl }}"><b>[Link]</b></a>
+       <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer"><b>[Link]</b></a>
     {% endif %}
   </p>
   {% assign pub_count = pub_count | minus: 1 %}
@@ -37,7 +37,7 @@ author_profile: true
       <li>
         {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}
         {% if post.paperurl %}
-           <a href="{{ post.paperurl }}"><b>[Link]</b></a>
+           <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer"><b>[Link]</b></a>
         {% endif %}
       </li>
     </ul>
