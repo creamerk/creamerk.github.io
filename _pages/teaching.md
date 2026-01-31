@@ -14,7 +14,7 @@ author_profile: true
 * **Certificate in Introduction to College Teaching**, UC San Diego, Spring 2021
   * Interactive certificate course focused on evidence-based teaching practices, lesson planning, and syllabus design.
 * **Teaching Assistant, Jmol Biomolecule Webpage Development**, *Molecular Biology and Genomics course.* Kenyon College, 2015
-  * *Sample project: [Aspartate Transcarbamoylase Jmol Webpage](http://biology.kenyon.edu/BMB/jmol2014/ATCaseASKC/indexATCase.html)*
+  * *Sample project: <a href="http://biology.kenyon.edu/BMB/jmol2014/ATCaseASKC/indexATCase.html" target="_blank">Aspartate Transcarbamoylase Jmol Webpage</a>*
 * **Teaching Assistant, Introductory Biology Laboratory**, Kenyon College, 2013 – 2015
 
 ## Mentorship
@@ -25,7 +25,7 @@ author_profile: true
   * Oversaw their independent research on *Salinispora* isolation and plasmid characterization.
 * **Graduate Student Mentor**, NSF REU SURF Program, UC San Diego, Summer 2017, 2020
   * Primary mentor for Maggie Lara's research project, co-culturing marine bacteria to elicit metabolites.
-  * *[Press article highlighting this research](https://scripps.ucsd.edu/news/around-pier-surfing-science-research)*
+  * *<a href="https://scripps.ucsd.edu/news/around-pier-surfing-science-research" target="_blank">Press article highlighting this research</a>.*
   * Taught gDNA extraction, NGS workflows, and bacterial genome assembly on KBase during the remote 2020 REU.
 
 ## Outreach & Service
@@ -36,14 +36,14 @@ author_profile: true
 * **Principal Organizer, Scripps Student Symposium (S³)**, SIO, 2017 & 2018
   * Organized a full-day research symposium with 250+ attendees.
   * Managed an $8,000 budget, alumni keynote speakers, conference scheduling, and community engagement.
-  * *[Article highlighting the 2017 symposium](https://scripps.ucsd.edu/news/scripps-students-lead-fourth-annual-symposium)*
+  * *<a href="https://scripps.ucsd.edu/news/scripps-students-lead-fourth-annual-symposium" target="_blank">Article highlighting the 2017 symposium</a>.*
 * **Volunteer & Organizer, Rosa Parks Elementary Tutoring Program**, UC San Diego, 2017 – 2022
   * Principal Leader (2018–2022) providing weekly math and reading tutoring
   * Club received the **2017 UC San Diego Equal Opportunity/Affirmative Action and Diversity Award**.
-  * *[Press article detailing the award](https://scripps.ucsd.edu/news/around-pier-reaching-new-heights)*
+  * *<a href="https://scripps.ucsd.edu/news/around-pier-reaching-new-heights" target="_blank">Press article detailing the award</a>.*
 
 ## Community Leadership
 
 * **Green Labs Graduate Student Leader**, UC San Diego, 2017 – 2022
-  * Led the Silver (2017) and Platinum (2018-2019) Green Labs certification of the Jensen Lab.
+  * Spearheaded the Silver (2017) and Platinum (2018-2019) Green Labs certification of the Jensen Lab.
   * Initiated a pilot nitrile glove recycling program at UC San Diego.
