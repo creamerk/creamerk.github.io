@@ -18,18 +18,17 @@ redirect_from:
 
   /* Reset font size to standard (1em) to match sidebar */
   .page__content p {
-    font-size: 1em;
+    font-size: 0.9em;
     line-height: 1.6;
-    color: #333;
   }
 
   /* Styling for the smaller contact footer */
   .contact-footer {
-    font-size: 0.85em;
-    color: #666;
+    font-size: 0.8em;
+    opacity: 0.8;
     margin-top: 2em;
     padding-top: 1em;
-    border-top: 1px solid #eee;
+    border-top: 1px solid currentColor;
   }
 </style>
 
