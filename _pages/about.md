@@ -16,25 +16,35 @@ redirect_from:
     padding-right: 2em !important;
   }
 
-  /* Makes the paragraph text slightly larger and easier to read */
+  /* Reset font size to standard (1em) to match sidebar */
   .page__content p {
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.6;
     color: #333;
   }
+
+  /* Styling for the smaller contact footer */
+  .contact-footer {
+    font-size: 0.85em;
+    color: #666;
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+  }
 </style>
 
-Welcome! I am a Postdoctoral Researcher at **University of California, Berkeley** in [Jill Banfield's lab](https://www.banfieldlab.com/) at the [Innovative Genomics Institute](https://innovativegenomics.org/) and the Earth & Planetary Sciences Department. 🧬 My research focuses on the microbial “who & what” using big genomic data to understand dynamic ecosystems. 🌎
+Welcome! I am a Postdoctoral Researcher at the **University of California, Berkeley** in [Jill Banfield's lab](https://www.banfieldlab.com/) at the [Innovative Genomics Institute](https://innovativegenomics.org/) and the Earth & Planetary Sciences Department. 🧬 My research focuses on the microbial “who & what” using big genomic data to understand dynamic ecosystems. 🌎
 * **Current Focus:** Soil microbial ecology and carbon sequestration using genome-resolved metagenomics.
 
 ---
 
 Previously, I completed my Ph.D. at the **Scripps Institution of Oceanography, UC San Diego** in Paul Jensen's laboratory. My doctoral research focused on: 🧫 Discovering novel compounds in ocean sediment bacteria (signaling molecules and antibiotics). 🌊 Developing bioinformatic tools to study the evolution of microbial biosynthetic machinery. 
 
-### Research Interests
+## Research Interests
 * **Environmental Genomics:** Genome-resolved metagenomics & big data pipelines with a microbial ecology lens.
 * **Microbial Ecology:** Understanding community assembly and evolution in soil & marine ecosystems. 
 * **Biotechnology:** Translating microbial discoveries into tangible solutions, like the discovery of novel microbial compounds and biosynthetic pathways.
 
----
-**Contact:** The best way to reach me is via email at **kcreamer [at] berkeley [dot] edu**.
+<div class="contact-footer">
+<strong>Contact:</strong> The best way to reach me is via email at <strong>kcreamer [at] berkeley [dot] edu</strong>.
+</div>
