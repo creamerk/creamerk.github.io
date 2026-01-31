@@ -10,7 +10,7 @@ author_profile: true
 I use a combination of **genome-resolved metagenomics**, **phylogenetics**, and **experimental evolution** to understand how microbial communities adapt to their environments and drive global biogeochemical cycles.
 
 ## Climate Solutions & Soil Microbiomes
-*Current work at the Innovative Genomics Institute, UC Berkeley (Banfield Lab)*
+*Current work at the Innovative Genomics Institute, UC Berkeley (<a href="https://www.banfieldlab.com/" target="_blank">Jill Banfield Lab</a>)*
 
 My postdoctoral research applies genome-resolved metagenomics & metatranscriptomics to evaluate the potential of soil microbial communities to mitigate climate change.
 
@@ -22,7 +22,7 @@ My postdoctoral research applies genome-resolved metagenomics & metatranscriptom
 ---
 
 ## Evolutionary Dynamics of Specialized Metabolism
-*PhD Research at Scripps Institution of Oceanography (Jensen Lab)*
+*PhD Research at Scripps Institution of Oceanography (Paul Jensen Lab)*
 
 My doctoral work focused on the evolution of biosynthetic gene clusters (BGCs) in the marine actinomycete *Salinispora* and the development of computational tools to mine genomic data for natural products.
 
@@ -32,14 +32,14 @@ My doctoral work focused on the evolution of biosynthetic gene clusters (BGCs) i
     * Evolutionary analysis of the *Salinispora* salinipostin biosynthetic gene cluster, uncovering new diversity in bacterial signaling molecule biosynthetic potential.
 
 * **NaPDoS2: Natural Product Domain Seeker**
-    * Developed and validated [NaPDoS2](https://napdos2.ucsd.edu), a webtool that uses phylogeny-based classification to detect ketosynthase (KS) and condensation (C) domains in genomic data.
+    * Developed and validated <a href="https://npdomainseeker.sdsc.edu/napdos2/" target="_blank">NaPDoS2</a>, a webtool that uses phylogeny-based classification to detect ketosynthase (KS) and condensation (C) domains in genomic data.
     * Applied NaPDoS2 to measure polyketide diversity by uncovering >60,000 KS domains, revealing novel patterns of biosynthetic potential across the entire tree of life.
 
 * **Deep-Sea Exploration on E/V Nautilus (2020)**
     * **Shipboard Scientist** on the *NA124* expedition to the Southern California Borderland.
     * Assisted ROV-mediated sample collections to assess the biopharmaceutical potential of benthic deep-sea ecosystems.
     * Conducted shipboard sample processing, including genomic and metabolomic preservation.
-    * [Full Dive videos on YouTube](https://www.youtube.com/watch?v=_y3MAH65Cfg&list=PL41b0O3MiKnYOFB_9lRdvgSUA95pG2WAV)
+    * <a href="https://www.youtube.com/watch?v=_y3MAH65Cfg&list=PL41b0O3MiKnYOFB_9lRdvgSUA95pG2WAV" target="_blank">Full Dive videos on YouTube</a>
 
 * **Advanced Bacterial Genetics (Cold Spring Harbor Laboratory) (2019)**
     * **Course Participant** (June 2019): Intensive training in transposon mutagenesis (Tn-Seq), CRISPR/Cas genome editing, and recombineering in *E. coli*, *Salmonella*, and *Vibrio*.
