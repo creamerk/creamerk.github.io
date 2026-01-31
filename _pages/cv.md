@@ -3,62 +3,35 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Postdoctoral Training
+* **Postdoctoral Researcher**, Earth & Planetary Sciences, Innovative Genomics Institute, University of California, Berkeley, **2022 – Present**
+  * Supervised by: Dr. Jill Banfield
+  * Research focus: Soil microbial ecology & carbon sequestration for soil health, using large-scale field experiments and big data approaches (metagenomics & metatranscriptomics) to investigate how microbial communities shape soil function.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* **Ph.D. in Marine Biology**, Scripps Institution of Oceanography, University of California San Diego, **2016-2022**
+  * Dissertation: *Experimental and phylogenetic approaches to understand natural product biosynthetic gene cluster evolution in the marine actinomycete genus Salinispora*
+  * Supervised by: Dr. Paul Jensen
+* **B.A. in Biology**, Kenyon College, **2016**
+  * *Highest Honors, cum laude*
+  * Minors: Chemistry and Environmental Studies
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Fellowships & Awards
+* **NSF Graduate Research Fellowship (GRFP)**, Microbial Biology, 2017 – 2022
+* **SIO Department Graduate Student Excellence Travel Award**, UC San Diego, 2017, 2019, 2022
+* **Scripps Student Symposium Best Speaker Award**, September 2021
+* **Scripps Outstanding Teaching Assistant Award**, SIO-126 Marine Microbiology, June 2021
+* **Illumina & UC San Diego Institute for Genomic Medicine Mini Grant Awardee**, October 2019
+* **Dickinson-McCrink Fellowship Recipient**, Scripps Institution of Oceanography, 2016 – 2017
+* **Robert Bowen Brown Jr. Award**, Department of Biology, Kenyon College, April 2016 *(Awarded for the best original research in biology by a Kenyon senior.)*
+* **The Franklin Miller Award**, Kenyon College, April 2016 *(Recognizing significant contributions to the Kenyon academic community.)*
+* **Sigma Xi Scientific Research Honors Society Inductee**, March 2016
+* **Spotlight Article Recognition**, *Applied and Environmental Microbiology* (Harden et al. 2015), 2015
+* **Best Research Poster & Presentation**, NSF REU, The Whitney Laboratory for Marine Bioscience, 2015
+* **Dorothy E. and Thomas C. Jegla Prize Recipient**, Department of Biology, Kenyon College, April 2013 *(Recognizing outstanding performance in introductory biology lab courses.)*
+* **Kenyon College Summer Science Scholar**, 2013
+* **Kenyon College Science 4-year Scholarship**, 2012 – 2016
