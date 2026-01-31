@@ -1,7 +1,7 @@
 ---
 title: "Taxonomic and biosynthetic diversity of the marine actinomycete Salinispora across spatial scales"
 collection: publications
-permalink: /publication/2025-01-01-salinispora-diversity
+permalink: /publication/salinispora-diversity
 excerpt: 'Investigating the microscale & global spatial distribution of taxonomic and biosynthetic diversity in the marine actinomycete, Salinispora.'
 date: 2025-12-08
 venue: 'Applied and Environmental Microbiology'
