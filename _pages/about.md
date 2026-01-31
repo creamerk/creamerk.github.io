@@ -17,14 +17,15 @@ redirect_from:
   }
 
   /* Reset font size to standard (1em) to match sidebar */
-  .page__content p {
-    font-size: 0.95em;
+  .page__content p,
+  .page__content li {
+    font-size: 0.98em;
     line-height: 1.6;
   }
 
   /* Styling for the smaller contact footer */
   .contact-footer {
-    font-size: 0.85em;
+    font-size: 0.88em;
     opacity: 0.8;
     margin-top: 2em;
     padding-top: 1em;
