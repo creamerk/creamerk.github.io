@@ -18,13 +18,13 @@ redirect_from:
 
   /* Reset font size to standard (1em) to match sidebar */
   .page__content p {
-    font-size: 0.9em;
+    font-size: 0.95em;
     line-height: 1.6;
   }
 
   /* Styling for the smaller contact footer */
   .contact-footer {
-    font-size: 0.8em;
+    font-size: 0.85em;
     opacity: 0.8;
     margin-top: 2em;
     padding-top: 1em;
@@ -39,7 +39,7 @@ Welcome! I am a Postdoctoral Researcher at the **University of California, Berke
 
 Previously, I completed my Ph.D. at the **Scripps Institution of Oceanography, UC San Diego** in Paul Jensen's laboratory. My doctoral research focused on: 🧫 Discovering novel compounds in ocean sediment bacteria (signaling molecules and antibiotics). 🌊 Developing bioinformatic tools to study the evolution of microbial biosynthetic machinery. 
 
-## Research Interests
+### Research Interests
 * **Environmental Genomics:** Genome-resolved metagenomics & big data pipelines with a microbial ecology lens.
 * **Microbial Ecology:** Understanding community assembly and evolution in soil & marine ecosystems. 
 * **Biotechnology:** Translating microbial discoveries into tangible solutions, like the discovery of novel microbial compounds and biosynthetic pathways.
