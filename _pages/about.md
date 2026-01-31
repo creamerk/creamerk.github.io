@@ -8,15 +8,19 @@ redirect_from:
 ---
 
 <style>
-  /* Expands the main content area */
-  .archive, .page {
-    width: 100% !important;
-    max-width: 1200px !important;
+  /* This prevents the text from being squeezed into a narrow column */
+  .page__inner-wrap {
+    width: 95% !important;
+    max-width: 1000px !important;
+    margin-left: 0 !important;
+    padding-right: 2em !important;
   }
-  /* Optional: Adjusts line spacing for better readability */
+
+  /* Makes the paragraph text slightly larger and easier to read */
   .page__content p {
+    font-size: 1.1em;
     line-height: 1.6;
-    font-size: 1.05em;
+    color: #333;
   }
 </style>
 
