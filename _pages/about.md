@@ -33,7 +33,7 @@ redirect_from:
   }
 </style>
 
-Welcome! I am a Postdoctoral Researcher at the **University of California, Berkeley** in [Jill Banfield's lab](https://www.banfieldlab.com/) at the [Innovative Genomics Institute](https://innovativegenomics.org/) and the Earth & Planetary Sciences Department. 🧬 My research focuses on the microbial “who & what” using big genomic data to understand dynamic ecosystems. 🌎
+Welcome! I am a Postdoctoral Researcher at the **University of California, Berkeley** in <a href="https://www.banfieldlab.com/" target="_blank">Jill Banfield's lab</a> at the <a href="https://innovativegenomics.org/" target="_blank">Innovative Genomics Institute</a> and the <a href="https://eps.berkeley.edu/" target="_blank">Earth & Planetary Sciences Department</a>. 🧬 My research focuses on the microbial “who & what” using big genomic data to understand dynamic ecosystems. 🌎
 * **Current Focus:** Soil microbial ecology and carbon sequestration using genome-resolved metagenomics.
 
 ---
