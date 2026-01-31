@@ -6,15 +6,18 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-{% assign pub_count = site.publications.size %}
+{% assign academic_pubs = site.publications | where_exp: "item", "item.category != 'other'" %}
+{% assign other_pubs = site.publications | where: "category", "other" %}
+
+{% assign pub_count = academic_pubs.size %}
 
 <div style="font-size: 0.9em;">
-{% for post in site.publications reversed %}
+{% for post in academic_pubs reversed %}
   <p style="margin-bottom: 15px;">
     <strong>{{ pub_count }}.</strong> 
     {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -25,3 +28,19 @@ author_profile: true
   {% assign pub_count = pub_count | minus: 1 %}
 {% endfor %}
 </div>
+
+{% if other_pubs.size > 0 %}
+  <h2>Additional Publications</h2>
+  <div style="font-size: 0.9em;">
+  {% for post in other_pubs reversed %}
+    <ul style="margin-bottom: 10px;">
+      <li>
+        {{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}
+        {% if post.paperurl %}
+           <a href="{{ post.paperurl }}"><b>[Link]</b></a>
+        {% endif %}
+      </li>
+    </ul>
+  {% endfor %}
+  </div>
+{% endif %}
